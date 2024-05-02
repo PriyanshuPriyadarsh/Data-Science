@@ -1,0 +1,49 @@
+# Notebook Title
+Data Science Tools and Ecosystem
+
+## Introduction
+In this notebook, Data Science Tools and Ecosystem are summarized.
+
+### Data Science Languages
+
+- Python
+- R
+- Julia
+
+### Data Science Libraries
+
+- NumPy
+- Pandas
+- Matplotlib
+
+### Data Science Tools
+
+| Tool         | Description                |
+|--------------|----------------------------|
+| Jupyter      | Interactive notebooks      |
+| TensorFlow   | Deep learning framework    |
+| scikit-learn | Machine learning library   |
+
+## Arithmetic Expression Examples
+# Exercise 8
+# Multiply and add numbers
+result = (5 * 3) + (10 * 2)
+print(result)
+
+# Exercise 9
+# Convert minutes to hours
+minutes = 120
+hours = minutes / 60
+print(hours)
+
+
+### Objectives
+
+- Practice markdown formatting
+- Perform basic arithmetic operations in Python
+- Convert units of measurement
+
+
+#### Author: [Priyanshu Priyadarshi]
+
+#### Author: [Priyanshu Priyadarshi]
